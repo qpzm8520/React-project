@@ -1,3 +1,6 @@
+## management System
+3학년 프로젝트 1
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
